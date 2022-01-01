@@ -1,6 +1,8 @@
 # MinecraftServerInstaller
 Easily create a Minecraft server on your home pc
 
+Install from the versions section and dont install the .py files, unless you want to look at the code yourself
+
   This is just a fun project that I have been working on in my free time that I hope to keep working on in the future
   
   I am not the best python developer and do not know the most efficant way of coding things so if you see somthing dumb in the code its cuz im dumb lol
